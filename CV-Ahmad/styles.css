@@ -1,3 +1,8 @@
-.boday {
+body {
   font-family: Georgia (serif);
+  background-color: bisque;
+}
+.header h1 {
+  font-size: 50px;
+  text-align: center;
 }
