@@ -1,10 +1,29 @@
 body {
   font-family: Georgia (serif);
-  background-color: bisque;
+  background-color: white;
 }
 .header h1 {
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   border-top-style: solid;
   border-bottom-style: solid;
 }
+.header {
+  background-color: rgb(228, 228, 228);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 8px;
+}
+.headerp {
+  font-size: large;
+  padding-top: 10px;
+}
+.div h3 {
+  background-color: rgb(228, 228, 228);
+  text-align: center;
+}
+.div {
+  padding-top: 10px;
+}
+.
