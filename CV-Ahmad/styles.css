@@ -26,4 +26,15 @@ body {
 .div {
   padding-top: 10px;
 }
-.
+.article h3 {
+  background-color: rgb(228, 228, 228);
+  text-align: center;
+}
+.border1 {
+  border: 2px solid;
+  border-radius: 5px;
+}
+.SKILLS {
+  background-color: rgb(228, 228, 228);
+  text-align: center;
+}
