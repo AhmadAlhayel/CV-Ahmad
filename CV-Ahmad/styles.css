@@ -3,7 +3,7 @@ body {
   background-color: white;
 }
 .header h1 {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   border-top-style: solid;
   border-bottom-style: solid;
@@ -17,7 +17,6 @@ body {
 }
 .headerp {
   font-size: large;
-  padding-top: 10px;
 }
 .div h3 {
   background-color: rgb(228, 228, 228);
